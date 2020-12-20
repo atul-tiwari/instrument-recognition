@@ -1,7 +1,7 @@
 # instrument-recognition
 a Project for instrument recognition in musical audio signals With Librosa lib
 
-Please Acknowledge IRMAS in Academic Research
+Acknowledge IRMAS
 ---------------------------------------------------
 When IRMAS is used for academic research, we would highly appreciate if scientific publications of works partly based on the IRMAS dataset quote the following publication:
 
