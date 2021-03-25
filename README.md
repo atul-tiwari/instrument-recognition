@@ -2,8 +2,7 @@
 a Project for instrument recognition in musical audio signals With Librosa lib
 
 Acknowledge IRMAS
----------------------------------------------------
-When IRMAS is used for academic research, we would highly appreciate if scientific publications of works partly based on the IRMAS dataset quote the following publication:
+--------------------------------------------------
 
 Bosch, J. J., Janer, J., Fuhrmann, F., & Herrera, P. “A Comparison of Sound Segregation Techniques for Predominant Instrument Recognition in Musical Audio Signals”, in Proc. ISMIR (pp. 559-564), 2012
 
